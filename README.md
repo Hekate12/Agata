@@ -16,6 +16,6 @@
 
 # Digital Arts
 
-![GrafikaBabyYoda](https://i.imgur.com/y6ssrCR.png) 
-![GrafikaJarjarSpiderman](https://i.imgur.com/IjLP12c.png)
-![GrafikaKartaGAlaktyka](https://i.imgur.com/hMlLJLp.jpeg)
+![Grafika Baby Yoda](https://i.imgur.com/y6ssrCR.png) 
+![Grafika Jarjar i Spiderman](https://i.imgur.com/IjLP12c.png)
+![Grafika Karta Galaktyka](https://i.imgur.com/hMlLJLp.jpeg)
