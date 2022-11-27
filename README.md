@@ -11,11 +11,11 @@
 - [Post 8](https://fb.watch/h3tHe2FIJa/)
 
 # Artykuły blogowe
-- [Artkuł 1](https://www.faceandlook.pl/przepis-na-idealne-wlosy-wedlug-malgorzaty-rozenek-majdan)
-- [Artkuł 2](https://www.faceandlook.pl/makijazowy-trik-z-tiktoka-wyszczupla-twarz-stosuja-go-julia-wieniawa-i-malgorzata-socha)
-- [Artkuł 3](https://www.faceandlook.pl/kosmetyczne-must-have-kasi-sokolowskiej)
+- [Artykuł 1](https://www.faceandlook.pl/przepis-na-idealne-wlosy-wedlug-malgorzaty-rozenek-majdan)
+- [Artykuł 2](https://www.faceandlook.pl/makijazowy-trik-z-tiktoka-wyszczupla-twarz-stosuja-go-julia-wieniawa-i-malgorzata-socha)
+- [Artykuł 3](https://www.faceandlook.pl/kosmetyczne-must-have-kasi-sokolowskiej)
 
-# Digital Arts
+# Digital Art
 
 ![Grafika Baby Yoda](https://i.imgur.com/y6ssrCR.png) 
 ![Grafika Jarjar i Spiderman](https://i.imgur.com/IjLP12c.png)
