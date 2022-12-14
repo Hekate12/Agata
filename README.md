@@ -26,6 +26,9 @@
 
 <a href="https://www.faceandlook.pl/kosmetyczne-must-have-kasi-sokolowskiej" style="margin-right: 0.5em;"><img align="left" src="https://user-images.githubusercontent.com/119257110/204159726-cdb79c01-b50f-48b5-bb9c-90a44951c0d8.svg" alt="facebook " width="21px"/></a> [Artkuł 3](https://www.faceandlook.pl/kosmetyczne-must-have-kasi-sokolowskiej)
 
+# Grafiki reklamowe
+![Grafika Reklamowa](https://user-images.githubusercontent.com/119257110/207634362-b7904b1a-bb95-4d71-b06e-8070509b395d.png)
+![Grafika Reklamowa](https://user-images.githubusercontent.com/119257110/207634372-88b90ed5-eebd-4de0-a698-ea60e7b8f881.png)
 
 # Digital Arts
 
