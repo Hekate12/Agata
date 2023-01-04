@@ -14,7 +14,7 @@
 
 <a href="https://www.facebook.com/photo/?fbid=483199020569869&set=a.377457304477375" style="margin-right: 0.5em;"><img align="left" src="https://user-images.githubusercontent.com/119257110/204159738-ada2e63d-a991-44bb-b844-3fb6e0f1ad70.svg" alt="facebook " width="21px"/></a> [Post 7](https://www.facebook.com/photo/?fbid=483199020569869&set=a.377457304477375)
 
-<a href="https://www.facebook.com/photo/?fbid=149346101174450&set=a.129333626509031" style="margin-right: 0.5em;"><img align="left" src="https://user-images.githubusercontent.com/119257110/204159738-ada2e63d-a991-44bb-b844-3fb6e0f1ad70.svg" alt="facebook " width="21px"/></a> [Post 8](https://www.facebook.com/photo/?fbid=149346101174450&set=a.129333626509031
+<a href="https://www.facebook.com/photo/?fbid=149346101174450&set=a.129333626509031" style="margin-right: 0.5em;"><img align="left" src="https://user-images.githubusercontent.com/119257110/204159738-ada2e63d-a991-44bb-b844-3fb6e0f1ad70.svg" alt="facebook " width="21px"/></a> [Post 8](https://www.facebook.com/photo/?fbid=149346101174450&set=a.129333626509031)
 
 # Artykuły blogowe
 
